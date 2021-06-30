@@ -7,10 +7,14 @@ body {
 }
 
 a {
-  color: inherit;
+  color: #3f51b5;
   text-decoration: none;
 }
 
 * {
   box-sizing: border-box;
+}
+
+.root-wrapper {
+  margin-top: 2rem;
 }
